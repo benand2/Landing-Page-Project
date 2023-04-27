@@ -1,0 +1,150 @@
+
+.Section1 header 
+    {background-color: #1F2937;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;}
+
+.CCLogo 
+    {display: flex;
+    align-content: center;
+    margin-right: auto;
+    padding: 15px;
+    color: white;
+    margin-left: 50px;
+    flex-wrap: nowrap;}
+
+a 
+    {display: flex;
+    text-decoration: none;
+    color: white;
+    margin-right: 100px;
+    font-size: 18px;}
+
+.Section2 
+{display: flex;
+background-color: #1F2937;
+flex-direction: row;
+justify-content: space-between;
+padding-bottom: 100px;}
+
+.Section2left 
+    {width: 300px;
+    justify-content: center;
+    padding: 5px;}
+
+.Section2I 
+    {display: flex;
+    justify-content: center;
+    margin: 25px;
+    width: 500px;}
+
+#Section2H 
+    {color: white;
+    margin-left: 150px;
+    margin-top: 100px;
+    font-size: 48px;}
+
+#Section2P 
+    {color: white;
+    margin-left: 150px;}
+
+#Section2B 
+    {color: white;
+    background-color: #3882f6;
+    margin-left: 150px;
+    font-weight: bolder;
+    font-size: 18px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-right: 15px;
+    padding-bottom: 5px;}
+
+.Section3 
+    {background-color: white;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;}
+
+#Section3heading 
+    {display: flex;
+    background-color: white;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    align-items: center;}
+
+#Section3text 
+    {display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 175px;
+    margin-bottom: 75px;}
+
+.CoffeeSection 
+    {display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto; 
+    gap: 50px;}
+
+.Section4 
+    {background-color: #e5e7eb;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    padding-left: 250px;
+    padding-right: 250px;
+    display: flex;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;}
+
+#Section4Quote 
+    {font-size: 28px;
+    font-style: italic;
+    color: #1F2937;}
+
+.Section4Author 
+    {font-weight: bolder;
+    font-size: 18px;}
+
+.Section5 
+    {background-color: #3882f6;
+    margin: 150px;
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    align-items: center;}
+
+.S5Head 
+    {margin: 0px;
+    padding: 0px;}
+
+#CalltoH 
+    {font-weight: bolder;
+    margin-bottom: 1px;
+    padding-bottom: 1px;}
+
+#SB5 
+    {background-color: #3882f6;
+    border: 2px;
+    border-color: white;
+    color: white;
+    border-style: solid;
+    border-radius: 5px;
+    font-size: 16px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-right: 15px;
+    padding-bottom: 5px;}
+
+footer 
+    {background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-bottom: auto;}
